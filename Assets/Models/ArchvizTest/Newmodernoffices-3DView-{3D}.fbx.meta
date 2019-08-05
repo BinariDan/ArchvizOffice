@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: a2c5a33ab7b6ec842a7fa5f30e3a11e7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '3D View: {3D}'
+    100002: Basic Wall Generic - 150mm [342294]
+    100004: Basic Wall Generic - 150mm [342577]
+    100006: Basic Wall Generic - 150mm [343671]
+    100008: Basic Wall Generic - 150mm [344332]
+    100010: Basic Wall Generic - 150mm [344336]
+    100012: Basic Wall Generic - 150mm [344340]
+    100014: Basic Wall Generic - 150mm [344421]
+    100016: Basic Wall Generic - 150mm [344443]
+    100018: Basic Wall Generic - 150mm [869159]
+    100020: chair 24 2018 chair 24 2018 [449462]
+    100022: chair 24 2018 chair 24 2018 [637536]
+    100024: chair to use chair to use [967646]
+    100026: chair20 2018 chair20 2018 [576604]
+    100028: chair20 2018 chair20 2018 [576667]
+    100030: chair20 2018 chair20 2018 [576722]
+    100032: chair20 2018 chair20 2018 [576775]
+    100034: Floor Generic Floor - 400mm [393231]
+    100036: flower-6203 flower-6203 [942377]
+    100038: Generic Models 10 Generic Models 10 [942375]
+    100040: Generic Models 19 Generic Models 19 [665322]
+    100042: Generic Models 9 Generic Models 9 [610636]
+    100044: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633042]
+    100046: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633042]_1
+    100048: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633313]
+    100050: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633313]_2
+    100052: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633323]
+    100054: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633323]_3
+    100056: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633372]
+    100058: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633372]_4
+    100060: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633373]
+    100062: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633373]_5
+    100064: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633374]
+    100066: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633374]_6
+    100068: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633384]
+    100070: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633384]_7
+    100072: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633385]
+    100074: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633385]_8
+    100076: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633386]
+    100078: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633386]_9
+    100080: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633394]
+    100082: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633394]_10
+    100084: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633395]
+    100086: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633395]_11
+    100088: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633396]
+    100090: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633396]_12
+    100092: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633422]
+    100094: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633422]_13
+    100096: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633423]
+    100098: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633423]_14
+    100100: M_Door-Curtain-Wall-Single-Glass M_Door-Curtain-Wall-Single-Glass [850041]
+    100102: mac 2018 mac 2018 [938283]
+    100104: //RootNode
+    100106: office desk 2018 office desk 2018 [938282]
+    100108: office desk 2018 office desk 2018 [938282]_[656953]
+    100110: office desk 2018 office desk 2018 [938282]_[656956]
+    100112: Prisma_Individual Straight desks_320x120cm width 150*1.5 [449261]
+    100114: Rectangular Mullion 50mm x 150mm [496006]
+    100116: Rectangular Mullion 50mm x 150mm [496007]
+    100118: Rectangular Mullion 50mm x 150mm [496008]
+    100120: Rectangular Mullion 50mm x 150mm [496009]
+    100122: Rectangular Mullion 50mm x 150mm [496055]
+    100124: Rectangular Mullion 50mm x 150mm [496056]
+    100126: Rectangular Mullion 50mm x 150mm [496057]
+    100128: Rectangular Mullion 50mm x 150mm [496058]
+    100130: Rectangular Mullion 50mm x 150mm [496066]
+    100132: Rectangular Mullion 50mm x 150mm [496067]
+    100134: Rectangular Mullion 50mm x 150mm [496068]
+    100136: Rectangular Mullion 50mm x 150mm [496069]
+    100138: Rectangular Mullion 50mm x 150mm [496077]
+    100140: Rectangular Mullion 50mm x 150mm [496078]
+    100142: Rectangular Mullion 50mm x 150mm [496079]
+    100144: Rectangular Mullion 50mm x 150mm [496080]
+    100146: Rectangular Mullion 50mm x 150mm [496081]
+    100148: Rectangular Mullion 50mm x 150mm [496082]
+    100150: Rectangular Mullion 50mm x 150mm [496083]
+    100152: Rectangular Mullion 50mm x 150mm [496091]
+    100154: Rectangular Mullion 50mm x 150mm [496092]
+    100156: Rectangular Mullion 50mm x 150mm [496093]
+    100158: Rectangular Mullion 50mm x 150mm [496094]
+    100160: Rectangular Mullion 50mm x 150mm [496102]
+    100162: Rectangular Mullion 50mm x 150mm [496103]
+    100164: Rectangular Mullion 50mm x 150mm [496104]
+    100166: Rectangular Mullion 50mm x 150mm [496105]
+    100168: Rectangular Mullion 50mm x 150mm [743277]
+    100170: Rectangular Mullion 50mm x 150mm [743278]
+    100172: Rectangular Mullion 50mm x 150mm [743279]
+    100174: Rectangular Mullion 50mm x 150mm [743280]
+    100176: Rectangular Mullion 50mm x 150mm [743292]
+    100178: Rectangular Mullion 50mm x 150mm [743293]
+    100180: Rectangular Mullion 50mm x 150mm [743294]
+    100182: Rectangular Mullion 50mm x 150mm [743295]
+    100184: Rectangular Mullion 50mm x 150mm [743296]
+    100186: Rectangular Mullion 50mm x 150mm [743297]
+    100188: Rectangular Mullion 50mm x 150mm [743298]
+    100190: Rectangular Mullion 50mm x 150mm [743299]
+    100192: Rectangular Mullion 50mm x 150mm [743335]
+    100194: Rectangular Mullion 50mm x 150mm [743336]
+    100196: Rectangular Mullion 50mm x 150mm [743337]
+    100198: Rectangular Mullion 50mm x 150mm [743338]
+    100200: Rectangular Mullion 50mm x 150mm [743350]
+    100202: Rectangular Mullion 50mm x 150mm [743351]
+    100204: Rectangular Mullion 50mm x 150mm [743352]
+    100206: Rectangular Mullion 50mm x 150mm [743353]
+    100208: Rectangular Mullion 50mm x 150mm [743354]
+    100210: Rectangular Mullion 50mm x 150mm [743355]
+    100212: Rectangular Mullion 50mm x 150mm [743356]
+    100214: Rectangular Mullion 50mm x 150mm [743357]
+    100216: Rectangular Mullion SMALL [849702]
+    100218: Rectangular Mullion SMALL [849814]
+    100220: Rectangular Mullion SMALL [849818]
+    100222: Rectangular Mullion SMALL [849991]
+    100224: Rectangular Mullion SMALL [850046]
+    100226: Rectangular Mullion SMALL [869514]
+    100228: Rectangular Mullion SMALL [869515]
+    100230: Rectangular Mullion SMALL [879493]
+    100232: Rectangular Mullion SMALL [879497]
+    100234: Rectangular Mullion SMALL [879504]
+    100236: Rectangular Mullion SMALL [879758]
+    100238: Spot light baesed in any place Spot light baesed in any place [633431]
+    100240: Spot light baesed in any place Spot light baesed in any place [633431]_15
+    100242: Spot light baesed in any place Spot light baesed in any place [633432]
+    100244: Spot light baesed in any place Spot light baesed in any place [633432]_16
+    100246: System Panel Glazed [496004]
+    100248: System Panel Glazed [496011]
+    100250: System Panel Glazed [496013]
+    100252: System Panel Glazed [496015]
+    100254: System Panel Glazed [496017]
+    100256: System Panel Glazed [496033]
+    100258: System Panel Glazed [496034]
+    100260: System Panel Glazed [496035]
+    100262: System Panel Glazed [496036]
+    100264: System Panel Glazed [496037]
+    100266: System Panel Glazed [743275]
+    100268: System Panel Glazed [743282]
+    100270: System Panel Glazed [743284]
+    100272: System Panel Glazed [743285]
+    100274: System Panel Glazed [743322]
+    100276: System Panel Glazed [743340]
+    100278: System Panel Glazed [743342]
+    100280: System Panel Glazed [743343]
+    100282: System Panel Glazed [849641]
+    100284: System Panel Glazed [849986]
+    100286: System Panel Glazed [869502]
+    100288: System Panel Glazed [869503]
+    100290: System Panel Glazed [869504]
+    100292: table 61 2017 table 61 2017 [449463]
+    100294: TREE21 2018 CUBE TREE21 2018 CUBE [969801]
+    100296: TREE21 2018 CUBE TREE21 2018 CUBE [969801]_[969779]
+    100298: TREE21 2018 CUBE TREE21 2018 CUBE [969801]_[969782]
+    400000: '3D View: {3D}'
+    400002: Basic Wall Generic - 150mm [342294]
+    400004: Basic Wall Generic - 150mm [342577]
+    400006: Basic Wall Generic - 150mm [343671]
+    400008: Basic Wall Generic - 150mm [344332]
+    400010: Basic Wall Generic - 150mm [344336]
+    400012: Basic Wall Generic - 150mm [344340]
+    400014: Basic Wall Generic - 150mm [344421]
+    400016: Basic Wall Generic - 150mm [344443]
+    400018: Basic Wall Generic - 150mm [869159]
+    400020: chair 24 2018 chair 24 2018 [449462]
+    400022: chair 24 2018 chair 24 2018 [637536]
+    400024: chair to use chair to use [967646]
+    400026: chair20 2018 chair20 2018 [576604]
+    400028: chair20 2018 chair20 2018 [576667]
+    400030: chair20 2018 chair20 2018 [576722]
+    400032: chair20 2018 chair20 2018 [576775]
+    400034: Floor Generic Floor - 400mm [393231]
+    400036: flower-6203 flower-6203 [942377]
+    400038: Generic Models 10 Generic Models 10 [942375]
+    400040: Generic Models 19 Generic Models 19 [665322]
+    400042: Generic Models 9 Generic Models 9 [610636]
+    400044: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633042]
+    400046: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633042]_1
+    400048: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633313]
+    400050: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633313]_2
+    400052: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633323]
+    400054: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633323]_3
+    400056: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633372]
+    400058: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633372]_4
+    400060: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633373]
+    400062: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633373]_5
+    400064: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633374]
+    400066: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633374]_6
+    400068: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633384]
+    400070: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633384]_7
+    400072: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633385]
+    400074: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633385]_8
+    400076: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633386]
+    400078: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633386]_9
+    400080: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633394]
+    400082: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633394]_10
+    400084: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633395]
+    400086: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633395]_11
+    400088: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633396]
+    400090: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633396]_12
+    400092: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633422]
+    400094: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633422]_13
+    400096: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633423]
+    400098: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633423]_14
+    400100: M_Door-Curtain-Wall-Single-Glass M_Door-Curtain-Wall-Single-Glass [850041]
+    400102: mac 2018 mac 2018 [938283]
+    400104: //RootNode
+    400106: office desk 2018 office desk 2018 [938282]
+    400108: office desk 2018 office desk 2018 [938282]_[656953]
+    400110: office desk 2018 office desk 2018 [938282]_[656956]
+    400112: Prisma_Individual Straight desks_320x120cm width 150*1.5 [449261]
+    400114: Rectangular Mullion 50mm x 150mm [496006]
+    400116: Rectangular Mullion 50mm x 150mm [496007]
+    400118: Rectangular Mullion 50mm x 150mm [496008]
+    400120: Rectangular Mullion 50mm x 150mm [496009]
+    400122: Rectangular Mullion 50mm x 150mm [496055]
+    400124: Rectangular Mullion 50mm x 150mm [496056]
+    400126: Rectangular Mullion 50mm x 150mm [496057]
+    400128: Rectangular Mullion 50mm x 150mm [496058]
+    400130: Rectangular Mullion 50mm x 150mm [496066]
+    400132: Rectangular Mullion 50mm x 150mm [496067]
+    400134: Rectangular Mullion 50mm x 150mm [496068]
+    400136: Rectangular Mullion 50mm x 150mm [496069]
+    400138: Rectangular Mullion 50mm x 150mm [496077]
+    400140: Rectangular Mullion 50mm x 150mm [496078]
+    400142: Rectangular Mullion 50mm x 150mm [496079]
+    400144: Rectangular Mullion 50mm x 150mm [496080]
+    400146: Rectangular Mullion 50mm x 150mm [496081]
+    400148: Rectangular Mullion 50mm x 150mm [496082]
+    400150: Rectangular Mullion 50mm x 150mm [496083]
+    400152: Rectangular Mullion 50mm x 150mm [496091]
+    400154: Rectangular Mullion 50mm x 150mm [496092]
+    400156: Rectangular Mullion 50mm x 150mm [496093]
+    400158: Rectangular Mullion 50mm x 150mm [496094]
+    400160: Rectangular Mullion 50mm x 150mm [496102]
+    400162: Rectangular Mullion 50mm x 150mm [496103]
+    400164: Rectangular Mullion 50mm x 150mm [496104]
+    400166: Rectangular Mullion 50mm x 150mm [496105]
+    400168: Rectangular Mullion 50mm x 150mm [743277]
+    400170: Rectangular Mullion 50mm x 150mm [743278]
+    400172: Rectangular Mullion 50mm x 150mm [743279]
+    400174: Rectangular Mullion 50mm x 150mm [743280]
+    400176: Rectangular Mullion 50mm x 150mm [743292]
+    400178: Rectangular Mullion 50mm x 150mm [743293]
+    400180: Rectangular Mullion 50mm x 150mm [743294]
+    400182: Rectangular Mullion 50mm x 150mm [743295]
+    400184: Rectangular Mullion 50mm x 150mm [743296]
+    400186: Rectangular Mullion 50mm x 150mm [743297]
+    400188: Rectangular Mullion 50mm x 150mm [743298]
+    400190: Rectangular Mullion 50mm x 150mm [743299]
+    400192: Rectangular Mullion 50mm x 150mm [743335]
+    400194: Rectangular Mullion 50mm x 150mm [743336]
+    400196: Rectangular Mullion 50mm x 150mm [743337]
+    400198: Rectangular Mullion 50mm x 150mm [743338]
+    400200: Rectangular Mullion 50mm x 150mm [743350]
+    400202: Rectangular Mullion 50mm x 150mm [743351]
+    400204: Rectangular Mullion 50mm x 150mm [743352]
+    400206: Rectangular Mullion 50mm x 150mm [743353]
+    400208: Rectangular Mullion 50mm x 150mm [743354]
+    400210: Rectangular Mullion 50mm x 150mm [743355]
+    400212: Rectangular Mullion 50mm x 150mm [743356]
+    400214: Rectangular Mullion 50mm x 150mm [743357]
+    400216: Rectangular Mullion SMALL [849702]
+    400218: Rectangular Mullion SMALL [849814]
+    400220: Rectangular Mullion SMALL [849818]
+    400222: Rectangular Mullion SMALL [849991]
+    400224: Rectangular Mullion SMALL [850046]
+    400226: Rectangular Mullion SMALL [869514]
+    400228: Rectangular Mullion SMALL [869515]
+    400230: Rectangular Mullion SMALL [879493]
+    400232: Rectangular Mullion SMALL [879497]
+    400234: Rectangular Mullion SMALL [879504]
+    400236: Rectangular Mullion SMALL [879758]
+    400238: Spot light baesed in any place Spot light baesed in any place [633431]
+    400240: Spot light baesed in any place Spot light baesed in any place [633431]_15
+    400242: Spot light baesed in any place Spot light baesed in any place [633432]
+    400244: Spot light baesed in any place Spot light baesed in any place [633432]_16
+    400246: System Panel Glazed [496004]
+    400248: System Panel Glazed [496011]
+    400250: System Panel Glazed [496013]
+    400252: System Panel Glazed [496015]
+    400254: System Panel Glazed [496017]
+    400256: System Panel Glazed [496033]
+    400258: System Panel Glazed [496034]
+    400260: System Panel Glazed [496035]
+    400262: System Panel Glazed [496036]
+    400264: System Panel Glazed [496037]
+    400266: System Panel Glazed [743275]
+    400268: System Panel Glazed [743282]
+    400270: System Panel Glazed [743284]
+    400272: System Panel Glazed [743285]
+    400274: System Panel Glazed [743322]
+    400276: System Panel Glazed [743340]
+    400278: System Panel Glazed [743342]
+    400280: System Panel Glazed [743343]
+    400282: System Panel Glazed [849641]
+    400284: System Panel Glazed [849986]
+    400286: System Panel Glazed [869502]
+    400288: System Panel Glazed [869503]
+    400290: System Panel Glazed [869504]
+    400292: table 61 2017 table 61 2017 [449463]
+    400294: TREE21 2018 CUBE TREE21 2018 CUBE [969801]
+    400296: TREE21 2018 CUBE TREE21 2018 CUBE [969801]_[969779]
+    400298: TREE21 2018 CUBE TREE21 2018 CUBE [969801]_[969782]
+    2000000: '3D View: {3D}'
+    2100000: No Name
+    2300000: Basic Wall Generic - 150mm [342294]
+    2300002: Basic Wall Generic - 150mm [342577]
+    2300004: Basic Wall Generic - 150mm [343671]
+    2300006: Basic Wall Generic - 150mm [344332]
+    2300008: Basic Wall Generic - 150mm [344336]
+    2300010: Basic Wall Generic - 150mm [344340]
+    2300012: Basic Wall Generic - 150mm [344421]
+    2300014: Basic Wall Generic - 150mm [344443]
+    2300016: Basic Wall Generic - 150mm [869159]
+    2300018: chair 24 2018 chair 24 2018 [449462]
+    2300020: chair 24 2018 chair 24 2018 [637536]
+    2300022: chair to use chair to use [967646]
+    2300024: chair20 2018 chair20 2018 [576604]
+    2300026: chair20 2018 chair20 2018 [576667]
+    2300028: chair20 2018 chair20 2018 [576722]
+    2300030: chair20 2018 chair20 2018 [576775]
+    2300032: Floor Generic Floor - 400mm [393231]
+    2300034: flower-6203 flower-6203 [942377]
+    2300036: Generic Models 10 Generic Models 10 [942375]
+    2300038: Generic Models 19 Generic Models 19 [665322]
+    2300040: Generic Models 9 Generic Models 9 [610636]
+    2300042: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633042]
+    2300044: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633313]
+    2300046: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633323]
+    2300048: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633372]
+    2300050: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633373]
+    2300052: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633374]
+    2300054: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633384]
+    2300056: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633385]
+    2300058: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633386]
+    2300060: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633394]
+    2300062: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633395]
+    2300064: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633396]
+    2300066: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633422]
+    2300068: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633423]
+    2300070: M_Door-Curtain-Wall-Single-Glass M_Door-Curtain-Wall-Single-Glass [850041]
+    2300072: mac 2018 mac 2018 [938283]
+    2300074: office desk 2018 office desk 2018 [938282]_[656953]
+    2300076: office desk 2018 office desk 2018 [938282]_[656956]
+    2300078: Prisma_Individual Straight desks_320x120cm width 150*1.5 [449261]
+    2300080: Rectangular Mullion 50mm x 150mm [496006]
+    2300082: Rectangular Mullion 50mm x 150mm [496007]
+    2300084: Rectangular Mullion 50mm x 150mm [496008]
+    2300086: Rectangular Mullion 50mm x 150mm [496009]
+    2300088: Rectangular Mullion 50mm x 150mm [496055]
+    2300090: Rectangular Mullion 50mm x 150mm [496056]
+    2300092: Rectangular Mullion 50mm x 150mm [496057]
+    2300094: Rectangular Mullion 50mm x 150mm [496058]
+    2300096: Rectangular Mullion 50mm x 150mm [496066]
+    2300098: Rectangular Mullion 50mm x 150mm [496067]
+    2300100: Rectangular Mullion 50mm x 150mm [496068]
+    2300102: Rectangular Mullion 50mm x 150mm [496069]
+    2300104: Rectangular Mullion 50mm x 150mm [496077]
+    2300106: Rectangular Mullion 50mm x 150mm [496078]
+    2300108: Rectangular Mullion 50mm x 150mm [496079]
+    2300110: Rectangular Mullion 50mm x 150mm [496080]
+    2300112: Rectangular Mullion 50mm x 150mm [496081]
+    2300114: Rectangular Mullion 50mm x 150mm [496082]
+    2300116: Rectangular Mullion 50mm x 150mm [496083]
+    2300118: Rectangular Mullion 50mm x 150mm [496091]
+    2300120: Rectangular Mullion 50mm x 150mm [496092]
+    2300122: Rectangular Mullion 50mm x 150mm [496093]
+    2300124: Rectangular Mullion 50mm x 150mm [496094]
+    2300126: Rectangular Mullion 50mm x 150mm [496102]
+    2300128: Rectangular Mullion 50mm x 150mm [496103]
+    2300130: Rectangular Mullion 50mm x 150mm [496104]
+    2300132: Rectangular Mullion 50mm x 150mm [496105]
+    2300134: Rectangular Mullion 50mm x 150mm [743277]
+    2300136: Rectangular Mullion 50mm x 150mm [743278]
+    2300138: Rectangular Mullion 50mm x 150mm [743279]
+    2300140: Rectangular Mullion 50mm x 150mm [743280]
+    2300142: Rectangular Mullion 50mm x 150mm [743292]
+    2300144: Rectangular Mullion 50mm x 150mm [743293]
+    2300146: Rectangular Mullion 50mm x 150mm [743294]
+    2300148: Rectangular Mullion 50mm x 150mm [743295]
+    2300150: Rectangular Mullion 50mm x 150mm [743296]
+    2300152: Rectangular Mullion 50mm x 150mm [743297]
+    2300154: Rectangular Mullion 50mm x 150mm [743298]
+    2300156: Rectangular Mullion 50mm x 150mm [743299]
+    2300158: Rectangular Mullion 50mm x 150mm [743335]
+    2300160: Rectangular Mullion 50mm x 150mm [743336]
+    2300162: Rectangular Mullion 50mm x 150mm [743337]
+    2300164: Rectangular Mullion 50mm x 150mm [743338]
+    2300166: Rectangular Mullion 50mm x 150mm [743350]
+    2300168: Rectangular Mullion 50mm x 150mm [743351]
+    2300170: Rectangular Mullion 50mm x 150mm [743352]
+    2300172: Rectangular Mullion 50mm x 150mm [743353]
+    2300174: Rectangular Mullion 50mm x 150mm [743354]
+    2300176: Rectangular Mullion 50mm x 150mm [743355]
+    2300178: Rectangular Mullion 50mm x 150mm [743356]
+    2300180: Rectangular Mullion 50mm x 150mm [743357]
+    2300182: Rectangular Mullion SMALL [849702]
+    2300184: Rectangular Mullion SMALL [849814]
+    2300186: Rectangular Mullion SMALL [849818]
+    2300188: Rectangular Mullion SMALL [849991]
+    2300190: Rectangular Mullion SMALL [850046]
+    2300192: Rectangular Mullion SMALL [869514]
+    2300194: Rectangular Mullion SMALL [869515]
+    2300196: Rectangular Mullion SMALL [879493]
+    2300198: Rectangular Mullion SMALL [879497]
+    2300200: Rectangular Mullion SMALL [879504]
+    2300202: Rectangular Mullion SMALL [879758]
+    2300204: Spot light baesed in any place Spot light baesed in any place [633431]
+    2300206: Spot light baesed in any place Spot light baesed in any place [633432]
+    2300208: System Panel Glazed [496004]
+    2300210: System Panel Glazed [496011]
+    2300212: System Panel Glazed [496013]
+    2300214: System Panel Glazed [496015]
+    2300216: System Panel Glazed [496017]
+    2300218: System Panel Glazed [496033]
+    2300220: System Panel Glazed [496034]
+    2300222: System Panel Glazed [496035]
+    2300224: System Panel Glazed [496036]
+    2300226: System Panel Glazed [496037]
+    2300228: System Panel Glazed [743275]
+    2300230: System Panel Glazed [743282]
+    2300232: System Panel Glazed [743284]
+    2300234: System Panel Glazed [743285]
+    2300236: System Panel Glazed [743322]
+    2300238: System Panel Glazed [743340]
+    2300240: System Panel Glazed [743342]
+    2300242: System Panel Glazed [743343]
+    2300244: System Panel Glazed [849641]
+    2300246: System Panel Glazed [849986]
+    2300248: System Panel Glazed [869502]
+    2300250: System Panel Glazed [869503]
+    2300252: System Panel Glazed [869504]
+    2300254: table 61 2017 table 61 2017 [449463]
+    2300256: TREE21 2018 CUBE TREE21 2018 CUBE [969801]
+    2300258: TREE21 2018 CUBE TREE21 2018 CUBE [969801]_[969779]
+    2300260: TREE21 2018 CUBE TREE21 2018 CUBE [969801]_[969782]
+    3300000: Basic Wall Generic - 150mm [342294]
+    3300002: Basic Wall Generic - 150mm [342577]
+    3300004: Basic Wall Generic - 150mm [343671]
+    3300006: Basic Wall Generic - 150mm [344332]
+    3300008: Basic Wall Generic - 150mm [344336]
+    3300010: Basic Wall Generic - 150mm [344340]
+    3300012: Basic Wall Generic - 150mm [344421]
+    3300014: Basic Wall Generic - 150mm [344443]
+    3300016: Basic Wall Generic - 150mm [869159]
+    3300018: chair 24 2018 chair 24 2018 [449462]
+    3300020: chair 24 2018 chair 24 2018 [637536]
+    3300022: chair to use chair to use [967646]
+    3300024: chair20 2018 chair20 2018 [576604]
+    3300026: chair20 2018 chair20 2018 [576667]
+    3300028: chair20 2018 chair20 2018 [576722]
+    3300030: chair20 2018 chair20 2018 [576775]
+    3300032: Floor Generic Floor - 400mm [393231]
+    3300034: flower-6203 flower-6203 [942377]
+    3300036: Generic Models 10 Generic Models 10 [942375]
+    3300038: Generic Models 19 Generic Models 19 [665322]
+    3300040: Generic Models 9 Generic Models 9 [610636]
+    3300042: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633042]
+    3300044: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633313]
+    3300046: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633323]
+    3300048: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633372]
+    3300050: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633373]
+    3300052: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633374]
+    3300054: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633384]
+    3300056: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633385]
+    3300058: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633386]
+    3300060: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633394]
+    3300062: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633395]
+    3300064: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633396]
+    3300066: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633422]
+    3300068: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633423]
+    3300070: M_Door-Curtain-Wall-Single-Glass M_Door-Curtain-Wall-Single-Glass [850041]
+    3300072: mac 2018 mac 2018 [938283]
+    3300074: office desk 2018 office desk 2018 [938282]_[656953]
+    3300076: office desk 2018 office desk 2018 [938282]_[656956]
+    3300078: Prisma_Individual Straight desks_320x120cm width 150*1.5 [449261]
+    3300080: Rectangular Mullion 50mm x 150mm [496006]
+    3300082: Rectangular Mullion 50mm x 150mm [496007]
+    3300084: Rectangular Mullion 50mm x 150mm [496008]
+    3300086: Rectangular Mullion 50mm x 150mm [496009]
+    3300088: Rectangular Mullion 50mm x 150mm [496055]
+    3300090: Rectangular Mullion 50mm x 150mm [496056]
+    3300092: Rectangular Mullion 50mm x 150mm [496057]
+    3300094: Rectangular Mullion 50mm x 150mm [496058]
+    3300096: Rectangular Mullion 50mm x 150mm [496066]
+    3300098: Rectangular Mullion 50mm x 150mm [496067]
+    3300100: Rectangular Mullion 50mm x 150mm [496068]
+    3300102: Rectangular Mullion 50mm x 150mm [496069]
+    3300104: Rectangular Mullion 50mm x 150mm [496077]
+    3300106: Rectangular Mullion 50mm x 150mm [496078]
+    3300108: Rectangular Mullion 50mm x 150mm [496079]
+    3300110: Rectangular Mullion 50mm x 150mm [496080]
+    3300112: Rectangular Mullion 50mm x 150mm [496081]
+    3300114: Rectangular Mullion 50mm x 150mm [496082]
+    3300116: Rectangular Mullion 50mm x 150mm [496083]
+    3300118: Rectangular Mullion 50mm x 150mm [496091]
+    3300120: Rectangular Mullion 50mm x 150mm [496092]
+    3300122: Rectangular Mullion 50mm x 150mm [496093]
+    3300124: Rectangular Mullion 50mm x 150mm [496094]
+    3300126: Rectangular Mullion 50mm x 150mm [496102]
+    3300128: Rectangular Mullion 50mm x 150mm [496103]
+    3300130: Rectangular Mullion 50mm x 150mm [496104]
+    3300132: Rectangular Mullion 50mm x 150mm [496105]
+    3300134: Rectangular Mullion 50mm x 150mm [743277]
+    3300136: Rectangular Mullion 50mm x 150mm [743278]
+    3300138: Rectangular Mullion 50mm x 150mm [743279]
+    3300140: Rectangular Mullion 50mm x 150mm [743280]
+    3300142: Rectangular Mullion 50mm x 150mm [743292]
+    3300144: Rectangular Mullion 50mm x 150mm [743293]
+    3300146: Rectangular Mullion 50mm x 150mm [743294]
+    3300148: Rectangular Mullion 50mm x 150mm [743295]
+    3300150: Rectangular Mullion 50mm x 150mm [743296]
+    3300152: Rectangular Mullion 50mm x 150mm [743297]
+    3300154: Rectangular Mullion 50mm x 150mm [743298]
+    3300156: Rectangular Mullion 50mm x 150mm [743299]
+    3300158: Rectangular Mullion 50mm x 150mm [743335]
+    3300160: Rectangular Mullion 50mm x 150mm [743336]
+    3300162: Rectangular Mullion 50mm x 150mm [743337]
+    3300164: Rectangular Mullion 50mm x 150mm [743338]
+    3300166: Rectangular Mullion 50mm x 150mm [743350]
+    3300168: Rectangular Mullion 50mm x 150mm [743351]
+    3300170: Rectangular Mullion 50mm x 150mm [743352]
+    3300172: Rectangular Mullion 50mm x 150mm [743353]
+    3300174: Rectangular Mullion 50mm x 150mm [743354]
+    3300176: Rectangular Mullion 50mm x 150mm [743355]
+    3300178: Rectangular Mullion 50mm x 150mm [743356]
+    3300180: Rectangular Mullion 50mm x 150mm [743357]
+    3300182: Rectangular Mullion SMALL [849702]
+    3300184: Rectangular Mullion SMALL [849814]
+    3300186: Rectangular Mullion SMALL [849818]
+    3300188: Rectangular Mullion SMALL [849991]
+    3300190: Rectangular Mullion SMALL [850046]
+    3300192: Rectangular Mullion SMALL [869514]
+    3300194: Rectangular Mullion SMALL [869515]
+    3300196: Rectangular Mullion SMALL [879493]
+    3300198: Rectangular Mullion SMALL [879497]
+    3300200: Rectangular Mullion SMALL [879504]
+    3300202: Rectangular Mullion SMALL [879758]
+    3300204: Spot light baesed in any place Spot light baesed in any place [633431]
+    3300206: Spot light baesed in any place Spot light baesed in any place [633432]
+    3300208: System Panel Glazed [496004]
+    3300210: System Panel Glazed [496011]
+    3300212: System Panel Glazed [496013]
+    3300214: System Panel Glazed [496015]
+    3300216: System Panel Glazed [496017]
+    3300218: System Panel Glazed [496033]
+    3300220: System Panel Glazed [496034]
+    3300222: System Panel Glazed [496035]
+    3300224: System Panel Glazed [496036]
+    3300226: System Panel Glazed [496037]
+    3300228: System Panel Glazed [743275]
+    3300230: System Panel Glazed [743282]
+    3300232: System Panel Glazed [743284]
+    3300234: System Panel Glazed [743285]
+    3300236: System Panel Glazed [743322]
+    3300238: System Panel Glazed [743340]
+    3300240: System Panel Glazed [743342]
+    3300242: System Panel Glazed [743343]
+    3300244: System Panel Glazed [849641]
+    3300246: System Panel Glazed [849986]
+    3300248: System Panel Glazed [869502]
+    3300250: System Panel Glazed [869503]
+    3300252: System Panel Glazed [869504]
+    3300254: table 61 2017 table 61 2017 [449463]
+    3300256: TREE21 2018 CUBE TREE21 2018 CUBE [969801]
+    3300258: TREE21 2018 CUBE TREE21 2018 CUBE [969801]_[969779]
+    3300260: TREE21 2018 CUBE TREE21 2018 CUBE [969801]_[969782]
+    4300000: Basic Wall Generic - 150mm [342294]
+    4300002: Basic Wall Generic - 150mm [342577]
+    4300004: Basic Wall Generic - 150mm [343671]
+    4300006: Basic Wall Generic - 150mm [344332]
+    4300008: Basic Wall Generic - 150mm [344336]
+    4300010: Basic Wall Generic - 150mm [344340]
+    4300012: Basic Wall Generic - 150mm [344421]
+    4300014: Basic Wall Generic - 150mm [344443]
+    4300016: Floor Generic Floor - 400mm [393231]
+    4300018: Prisma_Individual Straight desks_320x120cm width 150*1.5 [449261]
+    4300020: chair 24 2018 chair 24 2018 [449462]
+    4300022: table 61 2017 table 61 2017 [449463]
+    4300024: System Panel Glazed [496004]
+    4300026: Rectangular Mullion 50mm x 150mm [496006]
+    4300028: Rectangular Mullion 50mm x 150mm [496007]
+    4300030: Rectangular Mullion 50mm x 150mm [496008]
+    4300032: Rectangular Mullion 50mm x 150mm [496009]
+    4300034: System Panel Glazed [496011]
+    4300036: Rectangular Mullion 50mm x 150mm [496055]
+    4300038: Rectangular Mullion 50mm x 150mm [496056]
+    4300040: Rectangular Mullion 50mm x 150mm [496066]
+    4300042: Rectangular Mullion 50mm x 150mm [496069]
+    4300044: Rectangular Mullion 50mm x 150mm [496077]
+    4300046: Rectangular Mullion 50mm x 150mm [496078]
+    4300048: Rectangular Mullion 50mm x 150mm [496079]
+    4300050: Rectangular Mullion 50mm x 150mm [496080]
+    4300052: Rectangular Mullion 50mm x 150mm [496083]
+    4300054: Rectangular Mullion 50mm x 150mm [496091]
+    4300056: Rectangular Mullion 50mm x 150mm [496102]
+    4300058: chair20 2018 chair20 2018 [576604]
+    4300060: Generic Models 9 Generic Models 9 [610636]
+    4300062: Lighting_Fixture-Focal_Point-ID-3.5in-Downlight-Square-FLC3D-SO Not A
+      Type - Load Type Catalog [633042]
+    4300064: Spot light baesed in any place Spot light baesed in any place [633431]
+    4300066: Generic Models 19 Generic Models 19 [665322]
+    4300068: System Panel Glazed [743275]
+    4300070: Rectangular Mullion 50mm x 150mm [743277]
+    4300072: Rectangular Mullion 50mm x 150mm [743278]
+    4300074: Rectangular Mullion 50mm x 150mm [743296]
+    4300076: System Panel Glazed [743322]
+    4300078: Rectangular Mullion 50mm x 150mm [743335]
+    4300080: Rectangular Mullion 50mm x 150mm [743336]
+    4300082: Rectangular Mullion 50mm x 150mm [743354]
+    4300084: System Panel Glazed [849641]
+    4300086: Rectangular Mullion SMALL [849702]
+    4300088: Rectangular Mullion SMALL [849814]
+    4300090: Rectangular Mullion SMALL [849818]
+    4300092: System Panel Glazed [849986]
+    4300094: Rectangular Mullion SMALL [849991]
+    4300096: M_Door-Curtain-Wall-Single-Glass M_Door-Curtain-Wall-Single-Glass [850041]
+    4300098: Rectangular Mullion SMALL [850046]
+    4300100: Basic Wall Generic - 150mm [869159]
+    4300102: System Panel Glazed [869502]
+    4300104: System Panel Glazed [869503]
+    4300106: System Panel Glazed [869504]
+    4300108: Rectangular Mullion SMALL [869514]
+    4300110: Rectangular Mullion SMALL [869515]
+    4300112: Rectangular Mullion SMALL [879493]
+    4300114: Rectangular Mullion SMALL [879497]
+    4300116: Rectangular Mullion SMALL [879504]
+    4300118: Rectangular Mullion SMALL [879758]
+    4300120: office desk 2018 office desk 2018 [938282]_[656956]
+    4300122: office desk 2018 office desk 2018 [938282]_[656953]
+    4300124: mac 2018 mac 2018 [938283]
+    4300126: Generic Models 10 Generic Models 10 [942375]
+    4300128: flower-6203 flower-6203 [942377]
+    4300130: chair to use chair to use [967646]
+    4300132: TREE21 2018 CUBE TREE21 2018 CUBE [969801]
+    4300134: TREE21 2018 CUBE TREE21 2018 CUBE [969801]_[969782]
+    4300136: TREE21 2018 CUBE TREE21 2018 CUBE [969801]_[969779]
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
